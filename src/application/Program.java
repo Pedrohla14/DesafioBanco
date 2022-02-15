@@ -137,12 +137,7 @@ public class Program {
 		System.out.println(c);
 	}
 		
-		
-		
-		
-		
-		
-		
+
 		sc.close();
 
 	}
