@@ -1,3 +1,3 @@
 # DesafioBanco  
 ##  Nesse programa é poss criara contas poupanças e correntes.
-## Também é Possivél fazer operaçoes nelas!
+## Também é Possível fazer operações nelas.
